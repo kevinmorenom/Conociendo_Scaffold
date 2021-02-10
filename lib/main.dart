@@ -23,6 +23,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   var _scaffoldKey = GlobalKey<ScaffoldState>();
+  //this is a comment to check commit
   bool pLike = false;
   bool pDislike = false;
   int counter = 0;
